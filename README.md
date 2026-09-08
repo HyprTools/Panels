@@ -5,7 +5,7 @@ This is my collection of scripts that can be used in the designated games.
 I use Rayfield, a UI made by Sirius. You can use it too, by going [here][0].
 
 ## What are the available games?
-[LGBTQ+ Hangout][1] (Script)[lgbtq.lua]
+[LGBTQ+ Hangout][1] [Script](lgbtq.lua)
 
 [0]: https://docs.sirius.menu/rayfield
 
